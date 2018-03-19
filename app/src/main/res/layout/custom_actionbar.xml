@@ -22,16 +22,16 @@
             android:textAppearance="?android:attr/textAppearanceMedium" />
 
         <ImageView
-            android:id="@+id/leftArrow"
-            android:layout_width="28dp"
-            android:layout_height="28dp"
+            android:id="@+id/appIcon"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
             android:layout_alignParentLeft="true"
             android:layout_centerVertical="true"
             android:layout_marginLeft="8dp"
             android:background="@drawable/icon"/>
 
         <ImageView
-            android:id="@+id/menu"
+            android:id="@+id/search"
             android:layout_width="28dp"
             android:layout_height="28dp"
             android:layout_alignParentRight="true"
