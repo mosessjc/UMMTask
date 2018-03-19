@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#e83c50</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#FFCCD1D2</color>
+    <color name="dark_gray">#b9b7b7</color>
+    <color name="card_corner_gray">#ccd1d2</color>
+    <color name="icon__gray">#808080</color>
+    <color name="green">#8ce66b</color>
+
+    <color name="statusOpen">#6dc740</color>
+    <color name="statusClosed">#d93035</color>
+</resources>
